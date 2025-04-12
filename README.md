@@ -14,7 +14,7 @@ A Node.js API for generating item combinations with MySQL storage, enforcing pre
 
 - Node.js v18+
 - MySQL 8.0+
-- npm or yarn
+- yarn
 
 ## Installation
 
