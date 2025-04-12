@@ -20,7 +20,7 @@ A Node.js API for generating item combinations with MySQL storage, enforcing pre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/combination-generator.git
+   git clone https://github.com/Martirosyan-Davit/generate-combinations.git
    cd combination-generator
 
 2. Install dependencies:
